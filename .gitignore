@@ -1,0 +1,17 @@
+# General junk
+*~
+
+# Python environment bits
+__pycache__
+venv
+
+# Build and distribution
+build
+dist
+*.egg-info
+
+# IDE-related
+.idea
+
+# macOS specific
+.DS_Store
